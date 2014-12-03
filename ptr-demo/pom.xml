@@ -57,7 +57,7 @@
 
     <properties>
         <android_maven_plugin_version>3.8.2</android_maven_plugin_version>
-        <android_compile_api_level>16</android_compile_api_level>
+        <android_compile_api_level>19</android_compile_api_level>
     </properties>
 
     <build>
